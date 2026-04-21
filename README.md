@@ -8,3 +8,5 @@ The client is a low-cost retailer, offering many promotions and discounts. You w
 - Words: buy, prices
 
 The resulting keywords: 'buy sofas', 'sofas buy', 'buy recliners', 'recliners buy', 'prices sofas', 'sofas prices', 'prices recliners', 'recliners prices'.
+
+This project was done in October, 2025.
